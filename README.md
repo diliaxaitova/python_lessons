@@ -1,2 +1,2 @@
 # python_lessons
-Ushbu repozitor benim birinchi ishim
+Ushbu repozitor dasturlash sohasidagi ilk ishim. Bu menga omad olib kelishiga ishonaman!
